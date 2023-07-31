@@ -1,0 +1,25 @@
+{
+    "SDI_UPS": {
+        "object_owner": {
+            "global_object_privileges": [
+                {
+                    "name": "Test_File",
+                    "type": "REMOTE SOURCE",
+                    "privileges": [
+                        "CREATE VIRTUAL TABLE",
+                        "DROP",
+                        "CREATE REMOTE SUBSCRIPTION"
+                    ]
+                }
+            ],
+            "roles": [
+                "TESTROLE"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "TESTROLE"
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "SDI_Project",
+            "path": "SDI_Project"
+        },
+        {
+            "path": "."
+        },
+        {
+            "name": "Test_Project",
+            "path": "Test_Project"
+        },
+        {
+            "name": "Test_Odata",
+            "path": "Test_Odata"
+        }
+    ],
+    "settings": {
+        "SAP HANA Database Artifacts.lastSelectedTargetPath": "/home/user/projects/Test_Odata/db/src"
+    }
+}
